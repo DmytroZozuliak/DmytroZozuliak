@@ -3,6 +3,7 @@ I'm react front-end developer with experience in creating SPA using React, Redux
 Can easily work in a team or by myself.
 Very scrupulous to details. Love when the work is done completely and in time.
 Day after day improving myself.
+Currently learning React-native
 
 To see more about me, visit my  [**CV**](https://dmytrozozuliak.github.io/rsschool-cv/)
 
@@ -10,12 +11,15 @@ To see more about me, visit my  [**CV**](https://dmytrozozuliak.github.io/rsscho
 ## 🛠 Skills
 HTML,
 CSS (SCSS, BEM),
+Tailwind,
 JavaScript (Fundamentals, ES6+, DOM),
 TypeScript,
 React,
 Redux + RTK,
 Rest API,
 Git/GitHub,
+cypress(e2e),
+react-testing-library,
 Figma,
 Webpack
 
